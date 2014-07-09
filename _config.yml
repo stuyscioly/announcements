@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:         true
 
 # Permalinks
-permalink: announcements/:title
+permalink: announcements/pretty
 
 # Setup
 title:            Hyde
