@@ -4,7 +4,7 @@
  <title>Hyde</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2014-07-09T03:49:21-04:00</updated>
+ <updated>2014-07-09T03:50:24-04:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Brian Chuk</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>5th Post</title>
-   <link href="http://hyde.getpoole.com/announcements/pretty"/>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/13/new-site/"/>
    <updated>2014-07-13T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/new-site</id>
+   <id>http://hyde.getpoole.com/announcements/2014/07/13/new-site</id>
    <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
@@ -35,9 +35,9 @@
  
  <entry>
    <title>4th Post</title>
-   <link href="http://hyde.getpoole.com/announcements/pretty"/>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/12/new-site/"/>
    <updated>2014-07-12T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/new-site</id>
+   <id>http://hyde.getpoole.com/announcements/2014/07/12/new-site</id>
    <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
@@ -56,9 +56,9 @@
  
  <entry>
    <title>Third Post</title>
-   <link href="http://hyde.getpoole.com/announcements/pretty"/>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/11/new-site/"/>
    <updated>2014-07-11T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/new-site</id>
+   <id>http://hyde.getpoole.com/announcements/2014/07/11/new-site</id>
    <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
@@ -77,9 +77,9 @@
  
  <entry>
    <title>Second Post</title>
-   <link href="http://hyde.getpoole.com/announcements/pretty"/>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/10/new-site/"/>
    <updated>2014-07-10T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/new-site</id>
+   <id>http://hyde.getpoole.com/announcements/2014/07/10/new-site</id>
    <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
@@ -98,9 +98,9 @@
  
  <entry>
    <title>First Post</title>
-   <link href="http://hyde.getpoole.com/announcements/pretty"/>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/09/new-site/"/>
    <updated>2014-07-09T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/new-site</id>
+   <id>http://hyde.getpoole.com/announcements/2014/07/09/new-site</id>
    <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
@@ -119,9 +119,9 @@
  
  <entry>
    <title>Test Post</title>
-   <link href="http://hyde.getpoole.com/announcements/pretty"/>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/08/example-content/"/>
    <updated>2014-07-08T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/example-content</id>
+   <id>http://hyde.getpoole.com/announcements/2014/07/08/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt; 
   Hello! This is an example announcement post so future SciOly members will know how to create posts on this website.
 &lt;/div&gt;
