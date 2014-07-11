@@ -51,7 +51,9 @@ C. Copy and paste the following text. **THIS IS IMPORTANT**.
 > &lt;br>
 
 D. Name the file in the following format YYYY-MM-DD-insert-cool-name-here.md
+
 E. Commit your file!
+
 F. The announcements page should automatically update with your post.
 
 
