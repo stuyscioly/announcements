@@ -10,13 +10,13 @@ A. Go to this [link](https://github.com/StuySciOly/announcements/tree/gh-pages/_
 B. Create a new file by clicking the plus icon. ![placeholder](https://raw.githubusercontent.com/StuySciOly/miscFiles/master/plus.gif "Example image")
 C. Copy and paste the following text. **THIS IS IMPORTANT**. 
 
-> ---
+> `---`
 
 > layout: post
 
 > title: Hello There
 
-> ---
+> `---`
 
 > <br>
 
