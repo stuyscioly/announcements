@@ -48,7 +48,7 @@ If you'd like to create posts, please follow the following steps (that double fo
 
 > &lt;br>
 
-> &lt;br>"
+> &lt;br>
 
 4. Name the file in the following format YYYY-MM-DD-insert-cool-name-here.md
 5. Commit your file!
