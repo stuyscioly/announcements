@@ -4,7 +4,7 @@
  <title>Hyde</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2014-07-09T04:23:12-04:00</updated>
+ <updated>2014-07-10T20:00:50-04:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Brian Chuk</name>
@@ -13,74 +13,26 @@
 
  
  <entry>
-   <title>5th Post</title>
-   <link href="http://hyde.getpoole.com/announcements/2014/07/13/new-site/"/>
-   <updated>2014-07-13T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/2014/07/13/new-site</id>
-   <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;hr&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>4th Post</title>
-   <link href="http://hyde.getpoole.com/announcements/2014/07/12/new-site/"/>
-   <updated>2014-07-12T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/2014/07/12/new-site</id>
-   <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;hr&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Third Post</title>
-   <link href="http://hyde.getpoole.com/announcements/2014/07/11/new-site/"/>
-   <updated>2014-07-11T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/2014/07/11/new-site</id>
-   <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;hr&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Second Post</title>
-   <link href="http://hyde.getpoole.com/announcements/2014/07/10/new-site/"/>
+   <title>Tshirt & Hoodie Design Contest</title>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/10/design-contest/"/>
    <updated>2014-07-10T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/2014/07/10/new-site</id>
-   <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
+   <id>http://hyde.getpoole.com/announcements/2014/07/10/design-contest</id>
+   <content type="html">&lt;p&gt;Hey guys! I hope you all have been enjoying your summer and taking some well needed rest from school. This year, we&amp;#39;re going to be speeding things up so we can have less mess-ups, hopefully. In light of that, your new VP Troy and I have decided to have the T-shirt/hoodies design contest moved up to now, so people can use their summer free time to really get their creative juices flowing without the burden of hw or projects during the school year. So the details of the contest:&lt;/p&gt;
+
+&lt;p&gt;-Use Customink to design your T-shirt/hoodie&lt;/p&gt;
+
+&lt;p&gt;-Once you&amp;#39;re satisfied with your epicly awesome design, send the design to StuyenceOlympiad@gmail.com&lt;/p&gt;
+
+&lt;p&gt;-Your design must have &amp;quot;Stuyvesant Science Olympiad&amp;quot; somewhere on the T-shirt and hoodie, in some recognizable shape or form (e.g &amp;quot;Stuy&amp;quot; and &amp;quot;SciOly&amp;quot;)&lt;/p&gt;
+
+&lt;p&gt;-Due date for the T-shirts and hoodies will be at 23:59 on OCTOBER 13TH, Columbus Day&lt;/p&gt;
+
+&lt;p&gt;Here are the Cheng Circles if anybody needs them for their design. They&amp;#39;re called Cheng Circles because a fantastic man named Cheng Xing designed them. He is now a Stuyvesant 2012 alumni member. Happy creating!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/download/665691250186262/Black%20Cheng%20Circle.jpg&quot;&gt;Black Cheng Circle&lt;/a&gt;
+&lt;a href=&quot;https://www.facebook.com/download/658179624273028/White%20Cheng%20Circle.jpg&quot;&gt;White Cheng Circle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;~Edmond Loi&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;
@@ -97,11 +49,31 @@
  </entry>
  
  <entry>
-   <title>First Post</title>
-   <link href="http://hyde.getpoole.com/announcements/2014/07/09/new-site/"/>
-   <updated>2014-07-09T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/2014/07/09/new-site</id>
-   <content type="html">&lt;p&gt;This is the new website!&lt;/p&gt;
+   <title>Hello There</title>
+   <link href="http://hyde.getpoole.com/announcements/2014/07/01/hello-there/"/>
+   <updated>2014-07-01T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/announcements/2014/07/01/hello-there</id>
+   <content type="html">&lt;p&gt;Hello and welcome to the new website of Stuyvesant Science Olympiad. I&amp;#39;m Brian Chuk, one of the creators of this site and the former president of Stuyvesant Science Olympiad from 2013 to 2014. We&amp;#39;re going to be using this website for important announcements, nonimportant announcements, photos, resources, and other important information.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;d like to give credit to the contributors of the site:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/edmond.loi.7&quot;&gt;Edmond Loi&lt;/a&gt; for hosting a hack night at his place where we were able to finally start programming the site and derp around. He&amp;#39;s also our president for the 2014-2015 school year.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/patosai&quot;&gt;Patrick Tsai&lt;/a&gt; for the &lt;a href=&quot;https://github.com/StuySciOly/StuySciOly.github.io/tree/artistic&quot;&gt;artistic&lt;/a&gt; branch of this site and for giving moral support in his short attendance during the hack night. Unfortunately he had to leave early due to his trip to Michigan.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://naokicho.com/&quot;&gt;Naoki Cho&lt;/a&gt; for immoral support.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/genjinoguchi&quot;&gt;Genji Noguchi&lt;/a&gt; for programming the &lt;a href=&quot;https:StuySciOly.github.io/gallery&quot;&gt;gallery&lt;/a&gt; page.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/johnson.liu.71&quot;&gt;Johnson Liu&lt;/a&gt; for giving ideas for pages and contribution to gallery.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;And of course, yours truly.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Oh and by the way if you&amp;#39;re interested in seeing the source code you can view it &lt;a href=&quot;https://github.com/StuySciOly/StuySciOly.github.io&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s all for now. Keep watching this announcements blog as we are going to have some &lt;strong&gt;major changes&lt;/strong&gt; this year.
+Also, this is going to be the last blog post from me because I am now a Stuyvesant alumni. It&amp;#39;s great to see that we&amp;#39;ve reached the second highest place so far in the States competition, and I know that we&amp;#39;ll just keep getting better and better.&lt;/p&gt;
+
+&lt;p&gt;Onwards to Nationals.&lt;/p&gt;
+
+&lt;p&gt;~ Brian Chuk&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;
@@ -119,9 +91,9 @@
  
  <entry>
    <title>Test Post</title>
-   <link href="http://hyde.getpoole.com/announcements/2014/07/08/example-content/"/>
-   <updated>2014-07-08T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/announcements/2014/07/08/example-content</id>
+   <link href="http://hyde.getpoole.com/announcements/2014/01/01/example-content/"/>
+   <updated>2014-01-01T00:00:00-05:00</updated>
+   <id>http://hyde.getpoole.com/announcements/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt; 
   Hello! This is an example announcement post so future SciOly members will know how to create posts on this website.
 &lt;/div&gt;
@@ -227,6 +199,8 @@
 &lt;/table&gt;
 
 &lt;p&gt;swag&lt;/p&gt;
+
+&lt;p&gt;~Brian Chuk&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;
