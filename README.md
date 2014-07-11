@@ -5,6 +5,46 @@ I'm making the announcements page separate from the StuySciOly.github.io reposit
 
 If you'd like to create posts, please follow the following steps (that double follow).
 
+
+1. Go to this [link](https://github.com/StuySciOly/announcements/tree/gh-pages/_posts).
+2. Create a new file by clicking the plus icon. ![placeholder](http://placehold.it/800x400 "Large example image")
+3. Let's hope this works.
+
+
+
+---
+layout: post
+title: Hello There
+---
+
+INSERT YOUR CONTENT HERE. MAKE SURE THE NEWLINE SPACES ARE PRESENT OR ELSE GITHUB PAGES WILL CRY.
+
+~YOUR NAME
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+<hr>
+
+THE HARD WAY.
+
+If you'd like to create posts, please follow the following steps (that double follow).
+
 1. Install all necessary stuffs [here](https://help.github.com/articles/using-jekyll-with-pages)
 2. Git clone this repository
 3. Go inside this repository through your terminal (Mac or Linux (preferably Linux (yes I'm biased)))
