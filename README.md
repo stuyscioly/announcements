@@ -7,33 +7,33 @@ If you'd like to create posts, please follow the following steps (that double fo
 
 
 1. Go to this [link](https://github.com/StuySciOly/announcements/tree/gh-pages/_posts).
-2. Create a new file by clicking the plus icon. ![placeholder](http://placehold.it/800x400 "Large example image")
-3. Let's hope this works.
+2. Create a new file by clicking the plus icon. ![placeholder](https://raw.githubusercontent.com/StuySciOly/miscFiles/master/plus.gif "Example image")
+3. Copy and paste the following text. **THIS IS IMPORTANT**. 
 
+> ---
+> layout: post
+> title: Hello There
+> ---
+> 
+> INSERT YOUR CONTENT HERE. MAKE SURE THE NEWLINE/ENTER SPACES ARE PRESENT OR ELSE GITHUB PAGES WILL CRY.
 
+> ~YOUR NAME
 
----
-layout: post
-title: Hello There
----
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
+> <hr>
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
 
-INSERT YOUR CONTENT HERE. MAKE SURE THE NEWLINE SPACES ARE PRESENT OR ELSE GITHUB PAGES WILL CRY.
-
-~YOUR NAME
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
+4. Name the file in the following format YYYY-MM-DD-insert-cool-name-here.md
+5. Commit your file!
+6. The announcements page should automatically update with your post.
 
 
 
