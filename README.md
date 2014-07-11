@@ -8,7 +8,7 @@ If you'd like to create posts, please follow the following steps (that double fo
 
 A. Go to this [link](https://github.com/StuySciOly/announcements/tree/gh-pages/_posts).
 B. Create a new file by clicking the plus icon. ![placeholder](https://raw.githubusercontent.com/StuySciOly/miscFiles/master/plus.gif "Example image")
-C. Copy and paste the following text. **THIS IS IMPORTANT**. 
+C. Copy and paste the following text in [here](https://raw.githubusercontent.com/StuySciOly/announcements/gh-pages/examplepost.md). **THIS IS IMPORTANT**.
 
 > `---`
 
