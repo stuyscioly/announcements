@@ -17,7 +17,7 @@ I'd like to give credit to the contributors of the site:
 
 - [Johnson Liu](https://www.facebook.com/johnson.liu.71) for giving ideas for pages and contribution to gallery.
 
-- And of course, yours truly.
+- And of course, [yours truly](https://github.com/devchuk).
 
 Oh and by the way if you're interested in seeing the source code you can view it [here](https://github.com/StuySciOly/StuySciOly.github.io)
 
