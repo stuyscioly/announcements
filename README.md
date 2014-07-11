@@ -6,9 +6,9 @@ I'm making the announcements page separate from the StuySciOly.github.io reposit
 If you'd like to create posts, please follow the following steps (that double follow).
 
 
-1. Go to this [link](https://github.com/StuySciOly/announcements/tree/gh-pages/_posts).
-2. Create a new file by clicking the plus icon. ![placeholder](https://raw.githubusercontent.com/StuySciOly/miscFiles/master/plus.gif "Example image")
-3. Copy and paste the following text. **THIS IS IMPORTANT**. 
+A. Go to this [link](https://github.com/StuySciOly/announcements/tree/gh-pages/_posts).
+B. Create a new file by clicking the plus icon. ![placeholder](https://raw.githubusercontent.com/StuySciOly/miscFiles/master/plus.gif "Example image")
+C. Copy and paste the following text. **THIS IS IMPORTANT**. 
 
 > ---
 
@@ -50,9 +50,9 @@ If you'd like to create posts, please follow the following steps (that double fo
 
 > &lt;br>
 
-4. Name the file in the following format YYYY-MM-DD-insert-cool-name-here.md
-5. Commit your file!
-6. The announcements page should automatically update with your post.
+D. Name the file in the following format YYYY-MM-DD-insert-cool-name-here.md
+E. Commit your file!
+F. The announcements page should automatically update with your post.
 
 
 
