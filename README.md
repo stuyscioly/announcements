@@ -18,21 +18,36 @@ If you'd like to create posts, please follow the following steps (that double fo
 
 > ---
 
-> 
+> <br>
+
 > INSERT YOUR CONTENT HERE. MAKE SURE THE NEWLINE/ENTER SPACES ARE PRESENT OR ELSE GITHUB PAGES WILL CRY.
+
+> <br>
 
 > ~YOUR NAME
 
+> <br>
+
 > &lt;br>
+
 > &lt;br>
+
 > &lt;br>
+
 > &lt;br>
+
 > &lt;br>
+
 > &lt;hr>
+
 > &lt;br>
+
 > &lt;br>
+
 > &lt;br>
+
 > &lt;br>
+
 > &lt;br>"
 
 4. Name the file in the following format YYYY-MM-DD-insert-cool-name-here.md
