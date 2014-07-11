@@ -16,6 +16,7 @@ Hey guys! I hope you all have been enjoying your summer and taking some well nee
 Here are the Cheng Circles if anybody needs them for their design. They're called Cheng Circles because a fantastic man named Cheng Xing designed them. He is now a Stuyvesant 2012 alumni member. Happy creating!
 
 [Black Cheng Circle](https://www.facebook.com/download/665691250186262/Black%20Cheng%20Circle.jpg)
+
 [White Cheng Circle](https://www.facebook.com/download/658179624273028/White%20Cheng%20Circle.jpg)
 
 ~Edmond Loi
