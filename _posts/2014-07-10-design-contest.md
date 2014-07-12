@@ -7,7 +7,7 @@ Hey guys! I hope you all have been enjoying your summer and taking some well nee
 
 -Use Customink to design your T-shirt/hoodie
 
--Once you're satisfied with your epicly awesome design, send the design to StuyenceOlympiad@gmail.com
+-Once you're satisfied with your epicly awesome design, send the design to [here](https://docs.google.com/forms/d/13mxvDhGkbpFlwvoA_QOOqQzdi4CrRzScmJR3uyctqCA/viewform).
 
 -Your design must have "Stuyvesant Science Olympiad" somewhere on the T-shirt and hoodie, in some recognizable shape or form (e.g "Stuy" and "SciOly")
 
