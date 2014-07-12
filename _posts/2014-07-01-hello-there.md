@@ -13,7 +13,7 @@ I'd like to give credit to the contributors of the site:
 
 - [Naoki Cho](http://naokicho.com/) for immoral support.
 
-- [Genji Noguchi](https://github.com/genjinoguchi) for programming the [gallery](https:StuySciOly.github.io/gallery.html) page.
+- [Genji Noguchi](https://github.com/genjinoguchi) for programming the [gallery](http://StuySciOly.github.io/gallery.html) page.
 
 - [Johnson Liu](https://www.facebook.com/johnson.liu.71) for giving ideas for pages and contribution to gallery.
 
