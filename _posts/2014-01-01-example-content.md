@@ -7,43 +7,43 @@ title: Test Post
   Hello! This is an example announcement post so future SciOly members will know how to create posts on this website.
 </div>
 
-Swag swag swag swag swag swag <a href="http://bigassmessage.com/fd4c8">swag swag swag</a>, swag. *swaaaaag.* Swag swag swag swag swag swag swag swag swag swag swag swag swag swag.
+stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly<a href="http://bigassmessage.com/fd4c8">stuyscioly stuyscioly stuyscioly</a>, stuyscioly. *stuyscioly.*stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly 
 
-Swag.
-> Swag.
+stuyscioly.
+> stuyscioly.
 
-Swag **sem malesuada magna** swag.
+stuyscioly  **sem malesuada magna** stuyscioly.
 <br>
 <br>
 <br>
 -----
-### SWAAAAG
-Swag swag swag [SWAG](http://lmgtfy.com/?q=swag).
+### STUYSCIOLY
+stuyscioly stuyscioly stuyscioly [STUYSCIOLY](http://lmgtfy.com/?q=swag).
 
-- **Bold swag**
-- *Italicized swag*
-- <del>Deleted swag</del>
-- <ins>Underlined swag</ins>
-- Superscript <sup>swag</sup> and subscript <sub>swag</sub>
+- **Bold stuyscioly**
+- *Italicized stuyscioly*
+- <del>Deleted stuyscioly</del>
+- <ins>Underlined stuyscioly</ins>
+- Superscript <sup>stuyscioly</sup> and subscript <sub>stuyscioly</sub>
 
 <br>
 <br>
 <br>
 
 
-### Lists of Swag.
+### Lists of Stuyscioly .
 
-* swag
-* swag
-* swag
+* stuyscioly 
+* stuyscioly 
+* stuyscioly 
 
-1. swag
-2. swag
-3. swag
+1. stuyscioly 
+2. stuyscioly 
+3. stuyscioly 
 
 <dl>
-  <dt>swag</dt>
-  <dd>swag swag swag swag swag</dd>
+  <dt>stuyscioly </dt>
+  <dd>stuyscioly stuyscioly stuyscioly stuyscioly stuyscioly </dd>
 </dl>
 <br>
 <br>
@@ -62,7 +62,7 @@ Swag swag swag [SWAG](http://lmgtfy.com/?q=swag).
 
 ### Tables
 
-Swag
+Stuyscioly 
 
 <table>
   <thead>
@@ -98,7 +98,7 @@ Swag
   </tbody>
 </table>
 
-swag
+stuyscioly 
 
 ~Brian Chuk
 
