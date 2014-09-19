@@ -4,7 +4,7 @@ title: Sign Up for Tech
 ---
 
 
-Thank you all to those who attended the Tech interest meeting today. If you are interested in joining Tech, please sign up using the link below. Remember, if you are interested in joining Tech, there will be tryout sessions on Monday (9/22) and Tuesday (9/13) next week.
+Thank you all to those who attended the Tech interest meeting today. If you are interested in joining Tech, please sign up using the link below. Remember, if you are interested in joining Tech, there will be tryout sessions on Monday (9/22) and Tuesday (9/23) next week.
 <br><br>
 
 ###REMINDERS:
