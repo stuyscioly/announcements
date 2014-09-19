@@ -22,7 +22,7 @@ Thank you all to those who attended the Tech interest meeting today. If you are 
 
 - <a href="http://stuyscioly.github.io/TechSignup" target=_blank>CLICK ME TO SIGN UP FOR TECH!</a>
 
-<br><br><br>
+<br>
 
 Once again, thank you to those who came, and to those who didn't, I hope to see you at the other divisional interest meetings.
 
