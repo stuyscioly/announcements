@@ -9,3 +9,14 @@ Invitationals! Science Olympiad Invitationals are mock competitions before Regio
 <center><a href:"http://strawpoll.me/2605096" target=_blank>VOTE HERE</a></center>
 
 ~Troy Ramsarran
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
