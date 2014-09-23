@@ -17,6 +17,14 @@ Thank you all to those who attended the Bio interest meeting today. If you are i
 - Chemistry- Tuesday, September 23rd (Rm. 737)
 - Physics- Wednesday, September 24th (Rm. 715)
 
+<br>
+####Sign up for Earth Science here:
+
+- <a href="http://stuyscioly.github.io/BioSignup" target=_blank>CLICK ME TO SIGN UP FOR EARTH SCIENCE!</a>
+
+<br>
+
+
 
 Once again, thank you to those who came, and to those who didn't, I hope to see you at the other divisional interest meetings.
 
