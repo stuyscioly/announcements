@@ -18,9 +18,9 @@ Thank you all to those who attended the Bio interest meeting today. If you are i
 - Physics- Wednesday, September 24th (Rm. 715)
 
 <br>
-####Sign up for Earth Science here:
+####Sign up for Biology here:
 
-- <a href="http://stuyscioly.github.io/BioSignup" target=_blank>CLICK ME TO SIGN UP FOR EARTH SCIENCE!</a>
+- <a href="http://stuyscioly.github.io/BioSignup" target=_blank>CLICK ME TO SIGN UP FOR BIOLOGY!</a>
 
 <br>
 
