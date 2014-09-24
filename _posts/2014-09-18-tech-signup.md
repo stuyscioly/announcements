@@ -20,7 +20,7 @@ Thank you all to those who attended the Tech interest meeting today. If you are 
 <br>
 ####Sign up for Tech here:
 
-- <a href="http://stuyscioly.github.io/TechSignup" target=_blank>CLICK ME TO SIGN UP FOR TECH!</a>
+- <a href="http://stuyscioly.github.io/techsignup" target=_blank>CLICK ME TO SIGN UP FOR TECH!</a>
 
 <br>
 
