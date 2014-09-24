@@ -20,7 +20,7 @@ Thank you all to those who attended the Earth Science interest meeting today. If
 <br>
 ####Sign up for Earth Science here:
 
-- <a href="http://stuyscioly.github.io/ESSignup" target=_blank>CLICK ME TO SIGN UP FOR EARTH SCIENCE!</a>
+- <a href="http://stuyscioly.github.io/essignup" target=_blank>CLICK ME TO SIGN UP FOR EARTH SCIENCE!</a>
 
 <br>
 
