@@ -20,7 +20,7 @@ Thank you all to those who attended the Bio interest meeting today. If you are i
 <br>
 ####Sign up for Biology here:
 
-- <a href="http://stuyscioly.github.io/BioSignup" target=_blank>CLICK ME TO SIGN UP FOR BIOLOGY!</a>
+- <a href="http://stuyscioly.github.io/biosignup" target=_blank>CLICK ME TO SIGN UP FOR BIOLOGY!</a>
 
 <br>
 
