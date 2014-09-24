@@ -20,7 +20,7 @@ Thank you all to those who attended the Chemistry interest meeting today. If you
 <br>
 ####Sign up for Chemistry here:
 
-- <a href="http://stuyscioly.github.io/ChemSignup" target=_blank>CLICK ME TO SIGN UP FOR CHEM!</a>
+- <a href="http://stuyscioly.github.io/chemsignup" target=_blank>CLICK ME TO SIGN UP FOR CHEM!</a>
 
 <br>
 
