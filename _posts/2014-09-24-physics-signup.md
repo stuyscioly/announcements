@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sign Up for Chemistry
+title: Sign Up for Physics
 ---
 
 
