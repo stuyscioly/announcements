@@ -13,7 +13,7 @@ Keep in mind that the creator of the winning design will recieve their scioly t-
 Have fun voting, and may the best design win! 
 <br>
 EDIT: The poll is embedded here for your convenience.  
-<center><iframe src="http://strawpoll.me/embed_1/2856787" style="width: 100%; height: 100%; border: 3;">Loading poll...</iframe></center>
+<center><iframe src="http://strawpoll.me/embed_1/2856787" style="width: 100%; height: 450px; border: 3;">Loading poll...</iframe></center>
 
 ~Edmond and Troy
 
