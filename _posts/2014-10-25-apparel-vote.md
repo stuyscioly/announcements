@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tshirt & Hoodie Design Contest Update
+title: Tshirt & Hoodie Design Voting Poll
 ---
 Hey guys! 
 Thank you for all the t-shirt and hoodie designs that you submitted for this year's apparel design contest. Now that the deadline for submission has passed, it is time to vote on which design we will proudly be wearing this year. 
