@@ -14,6 +14,7 @@ Have fun voting, and may the best design win!
 <br>
 EDIT: The poll is embedded here for your convenience.  
 <center><iframe src="http://strawpoll.me/embed_1/2856787" style="width: 100%; height: 450px; border: 15;">Loading poll...</iframe></center>
+<center><iframe src="http://strawpoll.me/embed_1/2859183" style="width: 600px; height: 390px; border: 0;">Loading poll...</iframe></center>
 
 ~Edmond and Troy
 
