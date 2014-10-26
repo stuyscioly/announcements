@@ -16,10 +16,10 @@ Have fun voting, and may the best design win!
 <br><br>
 EDIT: The polls are embedded here for your convenience.
 <br><br>
-<center><h2>This poll is for T-SHIRTS:</h2></center>
+<center><h4>This poll is for T-SHIRTS:</h4></center>
 <center><iframe src="http://strawpoll.me/embed_1/2856787" style="width: 100%; height: 450px; border: 15;">Loading poll...</iframe></center>
 <br><br>
-<center><h2>This poll is for HOODIES:</h2></center>
+<center><h4>This poll is for HOODIES:</h4></center>
 <center><iframe src="http://strawpoll.me/embed_1/2859183" style="width: 100%; height: 450px; border: 15;">Loading poll...</iframe></center>
 
 ~Edmond and Troy
