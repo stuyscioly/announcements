@@ -1,5 +1,5 @@
 ---
-form:post
+layout:post
 title:Registered for NYC Regionals!
 ---
 
