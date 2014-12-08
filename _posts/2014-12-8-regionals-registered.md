@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Registered for NYC Regionals!
+layout: post
+title: Registered for NYC Regionals!
 ---
 
 
