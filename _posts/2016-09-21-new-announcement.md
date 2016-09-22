@@ -8,11 +8,10 @@ Thank you all to those who attended the general interest meeting today. If you a
 The form will close Friday, September 30.<br><br>
 
 If you are interested in physics or tech, please also fill out the division-specific form:  
-#####Physics:
-
+Physics:  
 [Physics form!](https://docs.google.com/forms/d/e/1FAIpQLScXEa0D5VeuSyYRIGSmlbsR-oJ6szY4ss9FKfcqMDNBX-ibLA/viewform?c=0&w=1)
 
-#####Tech:
+Tech:  
 [Tech form!](https://docs.google.com/forms/d/e/1FAIpQLSf37ifBgOJ8pv8aiNDvYEtANd0Y_3LzsEubf_LyiOStDs7VbQ/viewform?c=0&w=1)
 
 <br>
