@@ -4,7 +4,8 @@ title: Welcome back everybody!
 ---
 
 
-Thank you all to those who attended the general interest meeting today. If you are interested in joining, please sign up using the link below.
+Thank you all to those who attended the general interest meeting today. If you are interested in joining, please sign up using the link below.  
+[General signup form!](https://docs.google.com/forms/d/e/1FAIpQLSeTWWqEyUwMleOCk6XUL-c2uBT3eYIXxYzrI7poQnrdVHqOdA/viewform)  
 The form will close Friday, September 30.<br><br>
 
 If you are interested in physics or tech, please also fill out the division-specific form:  
