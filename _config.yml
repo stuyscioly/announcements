@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:         true
+markdown:         kramdown
+highlighter:         rouge
 
 # Permalinks
 permalink: announcements/:categories/:year/:month/:day/:title/
