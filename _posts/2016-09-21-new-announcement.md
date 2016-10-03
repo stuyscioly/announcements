@@ -2,7 +2,7 @@
 layout: post
 title: Welcome back everybody!
 ---
-
+#UPDATE: Forms have **closed down**!
 
 Thank you all to those who attended the general interest meeting today. If you are interested in joining, please sign up using the link below.  
 [General signup form!](https://docs.google.com/forms/d/e/1FAIpQLSeTWWqEyUwMleOCk6XUL-c2uBT3eYIXxYzrI7poQnrdVHqOdA/viewform)  
