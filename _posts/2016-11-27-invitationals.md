@@ -7,7 +7,7 @@ Hello everyone! Stuyvesant Science Olympiad is proud to announce that we are goi
 <br>
 We are excited to compete and show everyone what we are made of! Wish us luck!
 <br>
-######A reminder that regionals is on February 4, 2016.
+**A reminder that regionals is on February 4, 2016.**
 -Shiva
 <br>
 <br>
