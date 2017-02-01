@@ -9,6 +9,7 @@ Stuyvesant Science Olympiad is going to once again compete in New York City's Re
 
 **A reminder that _ALL FORMS_ are due on Thursday, February 5, 2016**
 
+**Don't forget to pick up your shirt on Friday in room 709!**
 
 
 -Shiva
