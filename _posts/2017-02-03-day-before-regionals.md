@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York City Regionals - February 4, 2017
+title: Get Hyped for Regionals!
 ---
 
 Hey guys, so tomorrow is Regionals at Grover Cleveland High School.
